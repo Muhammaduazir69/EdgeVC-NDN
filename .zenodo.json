@@ -9,6 +9,15 @@
       "orcid": "0009-0002-4104-2680"
     }
   ],
-  "keywords": ["Named Data Networking", "verifiable credentials", "access control", "revocation", "proxy re-encryption", "5G NR", "OMNeT++"],
-  "version": "1.0.0"
+  "keywords": [
+    "Named Data Networking",
+    "verifiable credentials",
+    "access control",
+    "revocation",
+    "proxy re-encryption",
+    "5G NR",
+    "OMNeT++"
+  ],
+  "version": "1.0.0",
+  "license": "MIT"
 }

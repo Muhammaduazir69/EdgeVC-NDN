@@ -76,3 +76,7 @@ See `CITATION.cff`. Please cite the papers above once published.
 ## Author
 
 Muhammad Uzair, Department of Computer Science, COMSATS University Islamabad, Islamabad 45550, Pakistan. ORCID [0009-0002-4104-2680](https://orcid.org/0009-0002-4104-2680), muhammaduzairr69@gmail.com.
+
+## License
+
+MIT, see `LICENSE`. The Synthea sample records in `fhir_corpus/` are distributed by the Synthea project under its own terms.
