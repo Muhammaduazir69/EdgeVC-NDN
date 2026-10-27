@@ -1,0 +1,16 @@
+out/
+NDNPreEncryption
+NDNPreEncryption_dbg
+src/messages/*_m.cc
+src/messages/*_m.h
+__pycache__/
+*.sca
+*.vec
+*.vci
+*.elog
+*.log
+simulations/*/results/*_interests.csv
+simulations/*/results/*_decisions.csv
+simulations/*/results/*_applies.csv
+simulations/*/results/*_lifecycle.csv
+simulations/*/results/logs/

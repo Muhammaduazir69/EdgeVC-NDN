@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EdgeVC-NDN: simulation code for edge-verified credentials and revocable access control in Named Data Networking"
+authors:
+  - family-names: Uzair
+    given-names: Muhammad
+    affiliation: "Department of Computer Science, COMSATS University Islamabad, Islamabad 45550, Pakistan"
+    orcid: "https://orcid.org/0009-0002-4104-2680"
+    email: muhammaduzairr69@gmail.com
+repository-code: "https://github.com/Muhammaduazir69/EdgeVC-NDN"
+version: "1.0.0"
+date-released: "2026-10-28"
+keywords:
+  - Named Data Networking
+  - verifiable credentials
+  - access control
+  - revocation
+  - proxy re-encryption
+  - 5G NR
+  - OMNeT++

@@ -1,0 +1,15 @@
+stage,median_us
+did_parse_thumbprint,12.19
+interest_sig_verify,103.982
+vc_parse_verify,98.952
+claims_status_policy,0.15
+rekey_unseal,1.67
+session_lookup,0.11
+pre_reencapsulate,203.065
+decision_sign,57.242
+decision_verify,95.902
+policy_only,0.17
+ed25519_sign,56.462
+aes_gcm_per_kib,1.015
+pre_encapsulate,84.912
+pre_decapsulate,145.953

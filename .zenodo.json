@@ -1,0 +1,14 @@
+{
+  "title": "EdgeVC-NDN: simulation code, configurations and results for edge-verified credentials in Named Data Networking",
+  "upload_type": "software",
+  "description": "OMNeT++ 6.0.3 / INET 4.5 / Simu5G simulation code, scenario configurations, run summaries, per-request logs and analysis scripts for the manuscripts 'EdgeVC: Verifying Credentials Where the Cache Is, for Revocable Access Control in Named Data Networking' and 'Edge-Verified Credentials for FHIR Access over 5G New Radio: Break-Glass Auditing and an Adversarial Evaluation'.",
+  "creators": [
+    {
+      "name": "Uzair, Muhammad",
+      "affiliation": "COMSATS University Islamabad",
+      "orcid": "0009-0002-4104-2680"
+    }
+  ],
+  "keywords": ["Named Data Networking", "verifiable credentials", "access control", "revocation", "proxy re-encryption", "5G NR", "OMNeT++"],
+  "version": "1.0.0"
+}

@@ -1,0 +1,12 @@
+# Extra link flags for NDNPreEncryption.
+#
+# Picked up by Makefile via "-include makefrag" so it survives any future
+# `opp_makemake -f` regeneration (opp_makemake does not touch this file).
+#
+# Why these are needed:
+#   - libssl / libcrypto: real OpenSSL primitives in src/security/CryptoEngine.cc
+#     (Ed25519 sign/verify, X25519 ECDH, AES-GCM, SHA-256, HKDF, RAND_bytes).
+#   - libz: deflate/inflate used by src/security/VCList.cc to compress the
+#     W3C Bitstring Status List payload (rebuildBitstring()).
+
+LIBS += -lssl -lcrypto -lz
